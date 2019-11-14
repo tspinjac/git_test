@@ -3,7 +3,15 @@
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/tspinjac/git_test)
+![GitHub top language](https://img.shields.io/github/languages/top/tspinjac/git_test) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tspinjac/git_test)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/tspinjac/git_test)
+![GitHub](https://img.shields.io/github/license/tspinjac/git_test)
+![GitHub forks](https://img.shields.io/github/forks/tspinjac/git_test?style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tspinjac/git_test)
+![](https://img.shields.io/badge/Made%20By-Tomislav-brightgreen)
+(https://img.shields.io/badge/Made%20By-Tomislav-brightgreen)
+https://img.shields.io/badge/Made%20By-Tomislav-brightgreen
 So, you want to use git, right? 
 
 But you don't just want to learn commands, you want to understand what you're using? 

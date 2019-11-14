@@ -3,7 +3,7 @@
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
 
-![AppVeyor](https://img.shields.io/appveyor/ci/tspinjac/git_test?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/tspinjac/git_test)
 So, you want to use git, right? 
 
 But you don't just want to learn commands, you want to understand what you're using? 

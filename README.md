@@ -10,8 +10,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/tspinjac/git_test?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tspinjac/git_test)
 ![](https://img.shields.io/badge/Made%20By-Tomislav-brightgreen)
-(https://img.shields.io/badge/Made%20By-Tomislav-brightgreen)
-https://img.shields.io/badge/Made%20By-Tomislav-brightgreen
+![](https://img.shields.io/badge/Made%20By-Tomislav-brightgreen)
+![]https://img.shields.io/badge/Made%20By-Tomislav-brightgreen
 So, you want to use git, right? 
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
